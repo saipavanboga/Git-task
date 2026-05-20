@@ -1,1 +1,1 @@
-console.log("welcome to JavaScript programming!");
+console.log("unified frontend config")
